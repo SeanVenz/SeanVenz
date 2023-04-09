@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React library**
 
-- 💬 Ask me about **.NET**![CODING]
+- 💬 Ask me about **.NET**
 
 - 📫 How to reach me **quijano.seanvenz@gmail.com**
 
